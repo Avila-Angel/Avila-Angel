@@ -4,8 +4,6 @@
 
 - 👨🏻‍💻 Currently creating new projects.   <img align="right" src="https://i.gifer.com/origin/0d/0d0183d44abb37407142b860a8c6b4ce.gif" width="200">
 
-- 🌱 I’m currently learning **MERN**
-
 - 📫 How to reach me (📧 **angelsupra31591@gmail.com** )
 
 <h3 align="left">Connect with me:</h3>
