@@ -4,7 +4,7 @@
 
 - 👨🏻‍💻 Currently creating new projects.   <img align="right" src="https://i.gifer.com/origin/0d/0d0183d44abb37407142b860a8c6b4ce.gif" width="200">
 
-- 📫 How to reach me (📧 **angelsupra31591@gmail.com** )
+- 📫 How to reach me (📧 **angelavila.swe@gmail.com** )
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
