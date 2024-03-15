@@ -4,6 +4,7 @@
 
 <h3 align="left">About me:</h3>
 
+- SWE Intern @Adobe
 - Prev SWE Intern @S&P Global
 - Prev Web Developer @NYS OMH
 - 2023 HackNYU Winner 
