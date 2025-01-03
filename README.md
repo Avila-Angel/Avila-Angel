@@ -1,9 +1,10 @@
 ![](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif) 
 <h1 align="center">Hi 👋, I'm Angel Avila</h1>
-<h3 align="center">I'm a Web Developer and Computer Science major @John Jay</h3> 
+<h3 align="center">I'm a Software Engineer and Computer Science Graduate </h3> 
 
 <h3 align="left">About me:</h3>
 
+- BS in Computer Science
 - SWE Intern @Adobe
 - Prev SWE Intern @S&P Global
 - Prev Web Developer @NYS OMH
@@ -13,6 +14,7 @@
 - Headstarter SWE Fellow
 - CUNY Tech Prep Data Science Fellow
 - Codepath Intermediate Web Dev Fellow
+- AS in Accounting
 
 - 👨🏻‍💻 Currently creating new projects.   <img align="right" src="https://i.gifer.com/origin/0d/0d0183d44abb37407142b860a8c6b4ce.gif" width="200">
 
