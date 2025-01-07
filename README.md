@@ -4,10 +4,11 @@
 
 <h3 align="left">About me:</h3>
 
+- SWE @ Adobe
 - BS in Computer Science
-- SWE Intern @Adobe
-- Prev SWE Intern @S&P Global
-- Prev Web Developer @NYS OMH
+- Prev SWE Intern @ Adobe
+- Prev SWE Intern @ S&P Global
+- Prev Web Developer @ NYS OMH
 - 2023 HackNYU Winner 
 - Google SWE Fellow
 - Bloomberg SWE Fellow
